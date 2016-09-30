@@ -13,9 +13,7 @@ namespace GEDCOMConverter
 
     public class Individual
     {
-
         private List<Relation> pRelations = new List<Relation>();
-
         private List<GenericProperty> pProperties = new List<GenericProperty>();
 
         public Individual()
