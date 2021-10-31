@@ -57,7 +57,7 @@ namespace Examples
                             Console.WriteLine(r.Type + " " + r.PropertyName + " " + r.PropertyValue);
                         }
 
-                        Console.ReadKey();
+                        //Console.ReadKey();
                     }
                 }
             }catch(Exception ex)
